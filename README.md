@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @defaultuser8848
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Vue3.0,node js,python bytecode and OI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Vue3.0,node js,python code,Modern C++
+- 💞️ I’m looking to collaborate on OolongTea (A next gen. note.ms maintenance framework)
 - 📫 How to reach me defaultuser6.public@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/She/It(?)
 - ⚡ Fun fact: I'm a middle school student(
 
 <!---
